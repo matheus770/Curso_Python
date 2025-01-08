@@ -48,3 +48,5 @@ Ordem de procedencia
 resultado = 10 + 2 * 3  # 16 (multiplicação antes da adição)
 
 resultado = (10 + 2) * 3  # 36 (parênteses primeiro)
+
+#! Falar sobre operadores de comparação
